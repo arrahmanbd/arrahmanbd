@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m AR Rahman<br>👀 Full Stack Flutter & Python Developer<br>🌱 I’m also a Blogger
+👋 Hi, I’m AR Rahman<br>👀 Full Stack Developer<br>🌱 I’m also a Blogger
 
 
 ## 🌐 Socials:
