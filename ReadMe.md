@@ -1,7 +1,9 @@
-# 💫 About Me:
-👋 Hi, I’m AR Rahman<br>
-👀 Full-Stack Developer | Flutter Enthusiast<br>
-🌱 Blogger | Exploring Code, Physics & Innovation<br>
+# 💫 About Me
+Full-Stack Developer and Flutter enthusiast, part coder, part mad scientist. I build scalable apps that somehow survive experiments in code—sometimes they explode, sometimes they work flawlessly (mostly the latter).  
+
+I love solving complex problems, architecting systems like a Tetris master, and mentoring teams while juggling coffee cups and code bugs. When I’m not wrangling frameworks, I’m exploring physics, technology, and weird experiments that probably shouldn’t exist… but hey, innovation never sleeps.  
+
+
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17244164) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arrahmanbd) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arrahman.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arrahmanbd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arrahman_bd) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/arrahmanbd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@arrahman.dev) 
 
